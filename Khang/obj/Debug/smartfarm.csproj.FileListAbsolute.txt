@@ -1,0 +1,11 @@
+C:\Users\PC\source\repos\smartfarm\smartfarm\bin\Debug\smartfarm.exe.config
+C:\Users\PC\source\repos\smartfarm\smartfarm\bin\Debug\smartfarm.exe
+C:\Users\PC\source\repos\smartfarm\smartfarm\bin\Debug\smartfarm.pdb
+C:\Users\PC\source\repos\smartfarm\smartfarm\obj\Debug\smartfarm.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\smartfarm\smartfarm\obj\Debug\smartfarm.Properties.Resources.resources
+C:\Users\PC\source\repos\smartfarm\smartfarm\obj\Debug\smartfarm.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\smartfarm\smartfarm\obj\Debug\smartfarm.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\smartfarm\smartfarm\obj\Debug\smartfarm.exe
+C:\Users\PC\source\repos\smartfarm\smartfarm\obj\Debug\smartfarm.pdb
+C:\Users\PC\source\repos\smartfarm\smartfarm\obj\Debug\smartfarm.fLogin.resources
+C:\Users\PC\source\repos\smartfarm\smartfarm\obj\Debug\smartfarm.fAccountProfile.resources
